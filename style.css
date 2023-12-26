@@ -1,0 +1,219 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+
+.upperdiv {
+    display: flex;
+    width: 1440px;
+    height: 592px;
+    flex-shrink: 0;
+    background-color: #FFCD9E;
+}
+
+
+.main {
+    padding: 83px 0px 0px 136px;
+    color: #282828;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.para {
+    display: flex;
+    width: 495px;
+    height: 81px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 30px 10px 0px 136px;
+    color: #484848;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+}
+
+.text {
+    display: flex;
+    width: 227px;
+    height: 81px;
+    padding: 40px 10px 0px 136px;
+    color: #282828;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 160%;
+    /* 32px */
+}
+
+.email_box {
+    display: flex;
+    padding: 10px 10px 0px 136px;
+}
+
+input.Email {
+    display: flex;
+    border-radius: 8px;
+    border: 4px solid #000;
+    background: #FFF;
+    width: 344px;
+    height: 32px;
+    color: #888;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    /* 32px */
+}
+
+.register_btn {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #000;
+    border-radius: 8px;
+    padding: 13px 20px 13px 20px;
+    margin-left: 20px;
+    display: flex;
+    width: 216px;
+    height: 64px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+}
+
+input {
+    padding: 13px 20px 13px 20px;
+}
+
+.photu {
+    position: absolute;
+    display: flex;
+    padding: 4px 200.67px 66.15px 0px;
+    width: 575px; height: 475px; top: 20px; left: 818px;
+}
+
+.Free {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    /* 25.6px */
+    display: flex;
+    width: 344px;
+    height: 61px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    padding: 4px 962px 52px 134px;
+
+
+}
+
+.Prompt{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}
+
+
+.footer{
+background-color: #282828;
+width: 1440px;
+height: 298px;
+top: 592px;   
+}
+/* .Dweep{
+    background-color: #282828;
+height: 36px;
+flex-shrink: 0;
+padding-left: 13%;
+Float-right;
+    
+}
+.All{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}
+.Your{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}
+.Contribute{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}
+.Dweepio{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}
+.Made{
+    background-color: #282828;
+    height: 36px;
+    padding-left: 13%;
+}*/
+.hello{
+    background-color: #282828;
+    height: 36px;
+    padding-top: 30px;
+}
+
+.footer-left{
+    font-family: 'Inter';
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+width: 216px;
+height: 36px;
+top: 654px;
+left: 191px;
+position: absolute;
+color: white;
+}
+
+.footer-right{
+
+height: 36px;
+top: 654px;
+left: 1099px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFF;
+position: absolute;
+
+}
+
+.footer-right>img{
+    width: 29.41px;
+height: 27.42px;
+top: 728.58px;
+left: 1217.59px;
+}
